@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/t2oVMZ' target='_blank'><img src='http://gumac.vn/news/img/tintuc/Vay%20thang%204/uu%20dai%20dai%20le%2030-4/web%2030-4%20(1).jpg' width='500px'/><br/>Thời trang đầm công sở năm 2017</a>. Chỉ có tại GUMAC. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/t2oVMZ' target='_blank'><img src='http://gumac.vn/news/img/tintuc/Vay%20thang%204/uu%20dai%20dai%20le%2030-4/web%2030-4%20(1).jpg' width='500px'/><br/>Thời trang thương hiệu GUMAC</a>. Cám ơn các bạn đã ghé thăm GUMAC. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
